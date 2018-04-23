@@ -6,11 +6,11 @@ import time
 
 
 src_dir1 = "C:\\Drop"
-dst_dir1 = "C:\\Users\\anthony.helmey\\PBS_Support\\Systems and Projects\\USA"
+dst_dir1 = "C:\\Users\\User\\Support\\Systems\\USA"
 US_src_files = os.listdir(src_dir1)
 
 src_dir2 = "C:\\Drop2"
-dst_dir2 = "C:\\Users\\anthony.helmey\\PBS_Support\\Systems and Projects\\Canada"
+dst_dir2 = "C:\\Users\\User\\Support\\Systems\\Canada"
 CA_src_files = os.listdir(src_dir2)
 
 errors = []
